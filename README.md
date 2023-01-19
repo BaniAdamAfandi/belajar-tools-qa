@@ -1,2 +1,2 @@
 # belajar-tools-qa
-berisi pembelajaran tools qa dan bahasa pemrograman dari adam
+berisi pembelajaran tools qa dan bahasa pemrograman 
